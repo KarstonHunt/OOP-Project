@@ -14,7 +14,6 @@ item2 = Item("Laptop", 1000, 3)
 
 item3 = Item("Desktop", 1500, 5)
 
-
 user_input_item_name = input("What is the item name? ")
 user_input_item_price = input("What is the item price? ")
 user_input_item_quantity = input("What is the item quantity? ")
